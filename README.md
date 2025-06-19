@@ -1,39 +1,50 @@
-🚫 Rešite se botova na X.com
-Ova ekstenzija automatski detektuje i vizuelno označava bot naloge na X.com (bivši Twitter), kako biste lakše prepoznali neautentične profile.
+# 🚫 Rešite se botova na X.com
 
-🔍 Šta radi?
-✅ Postovi (tweets):
-– Obeležava bot naloge dodavanjem oznake BOT pored korisničkog imena
-– Menja pozadinu posta u crvenu boju
+Ekstenzija za automatsku detekciju i vizuelno označavanje **bot naloga** na X.com (bivši Twitter), radi veće bezbednosti i boljeg korisničkog iskustva.
 
-✅ Live pretraga:
-– Obeležava botove u rezultatima uživo dodavanjem oznake BOT pored korisničkog imena
+---
 
-✅ Sekcija "Možda ih poznajete":
-– Dodaje crvenu pozadinu oko sumnjivih naloga
+## 🔍 Funkcionalnosti
 
-✅ Ceo sajt X.com:
-– Označava korisnička imena botova sa BOT oznakom u crvenoj boji, gde god da se pojave
+### ✅ Postovi (tweets)
+- Dodaje oznaku `BOT` pored korisničkog imena
+- Menja pozadinu posta u **crvenu boju**
 
-🛠 Planirana poboljšanja
-🔄 Proširenje baze bot naloga
-📬 Ručno uklanjanje korisničkih imena iz baze isključivo putem e-maila:
-detektujbota@proton.me
+### ✅ Live pretraga (Search)
+- Detektuje i označava botove u rezultatima pretrage
+- Dodaje `BOT` pored korisničkog imena
 
-📦 Instalacija
-Preuzmite fajlove ekstenzije
+### ✅ "Možda ih poznajete" (You Might Know)
+- Dodaje **crvenu pozadinu** profilima koji deluju kao botovi
 
-Ekstraktujte u novi folder (npr. xbot-detector)
+### ✅ Globalno na X.com
+- Sva korisnička imena koja su označena kao botovi dobijaju `BOT` oznaku u **crvenoj boji** – bilo gde na sajtu
 
-Otvorite Google Chrome
+---
 
-Idite na: chrome://extensions/
+## 🛠 Planirana ažuriranja
 
-Uključite Developer mode (gore desno)
+- 🔄 Proširenje baze bot naloga  
+- 📬 Uklanjanje korisničkih imena iz baze isključivo putem e-maila:  
+  **`detektujbota@proton.me`**
 
-Kliknite na Load unpacked
+---
 
-Izaberite folder koji ste prethodno ekstraktovali
+## ⚙️ Instalacija
 
-Ekstenzija se aktivira automatski svaki put kada otvorite X.com
+1. Preuzmite fajlove ekstenzije (.zip)
+2. Ekstraktujte u novi folder (npr. `xbot-detector`)
+3. Otvorite **Google Chrome**
+4. Idite na: `chrome://extensions/`
+5. Uključite **Developer mode** (gore desno)
+6. Kliknite na **Load unpacked**
+7. Izaberite folder sa ekstenzijom
 
+> ✅ Ekstenzija radi automatski svaki put kada otvorite X.com
+
+---
+
+## ✉️ Kontakt
+
+Za prijavu grešaka ili uklanjanje iz baze, pišite na:  
+📧 **detektujbota@proton.me**
